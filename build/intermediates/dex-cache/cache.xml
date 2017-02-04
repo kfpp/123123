@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yezhihao/MyProjects/VPNServiceDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/yezhihao/MyProjects/VPNServiceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_03f80bdfc260df83de7424028ac29c9d85d758e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yezhihao/MyProjects/VPNServiceDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="033f1f97d36e5d043fae106706e1c203f394c6f0">
+        <dex dex="/home/yezhihao/MyProjects/VPNServiceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b0728790cabe15c1690e6c4d2a24b44cc64dadb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yezhihao/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/yezhihao/MyProjects/VPNServiceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_03a19b165d8487202df001da7f96dc80805c140b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yezhihao/MyProjects/VPNServiceDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d3e8fe64b4b3a6a5baf905e51db4590cf0029de2">
+        <dex dex="/home/yezhihao/MyProjects/VPNServiceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e406d868e5c8e0de557d256c6b9b0dd24cad5dde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yezhihao/MyProjects/VPNServiceDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/yezhihao/MyProjects/VPNServiceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_1bfab2bfbf2f8e8c1de5c6441e86d4989b63f824/classes.dex" />
+    </item>
+
+</items>
